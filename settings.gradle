@@ -1,1 +1,1 @@
-include ':app', ':MyRecyclerView', ':MyCardView'
+include ':app', ':MyRecyclerView', ':MyCardView', ':MyNotification'
