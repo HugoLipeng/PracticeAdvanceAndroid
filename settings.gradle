@@ -1,1 +1,1 @@
-include ':app', ':MyRecyclerView', ':MyCardView', ':MyNotification', ':MoonToolbar'
+include ':app', ':MyRecyclerView', ':MyCardView', ':MyNotification', ':MoonToolbar', ':MoonDesignSupportLibrary'
